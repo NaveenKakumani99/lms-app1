@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: muralialakuntla3/api
+          image: naveen1016/backend-lms
           imagePullPolicy: Always
           ports:
             - containerPort: 3000

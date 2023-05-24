@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: muralialakuntla3/webapp
+          image: naveen1016/frontend-lms
           imagePullPolicy: Always
           ports:
             - containerPort: 80
